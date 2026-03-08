@@ -6,6 +6,7 @@ Now, all unclassfied PDF files are stored in the [`/Unclassified`](./Unclassifie
 
 ## 📑 Table of Contents
 - [Research Papers](#-research-papers)
+  - [2026](#2026)
   - [2025](#2025)
   - [2024](#2024)
   - [2023](#2023)
@@ -18,13 +19,20 @@ Now, all unclassfied PDF files are stored in the [`/Unclassified`](./Unclassifie
 
 ## 📄 Research Papers
 
+### 2026
+
+| Method | Venue | Keywords | Title |
+| :--- | :---: | :--- | :--- |
+| [PantheonOS](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Xu%20%E7%AD%89%20-%20PantheonOS%20An%20Evolvable%20Multi-Agent%20Framework%20for%20Automatic%20Genomics%20Discovery.pdf) | **BioRxiv** | ///  | PantheonOS: An Evolvable Multi-Agent Framework for Automatic Genomics Discovery  |
+
+
 ### 2025
 
 | Method | Venue | Keywords | Title |
 | :--- | :---: | :--- | :--- |
 | [ScPEFT](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/He%20%E7%AD%89%20-%202025%20-%20Harnessing%20the%20power%20of%20single-cell%20large%20language%20models%20with%20parameter-efficient%20fine-tuning%20using.pdf) | **Nature Machine Intelligence** | ///  | Harnessing the power of single-cell large language models with parameter-efficient fine-tuning using  |
-| [ScMPT](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/He%20%E7%AD%89%20-%202025%20-%20Harnessing%20the%20power%20of%20single-cell%20large%20language%20models%20with%20parameter-efficient%20fine-tuning%20using.pdf) | **arXiv** | ///  | Towards Applying Large Language Models to Complement Single-Cell Foundation Models  |
 | [CellFM](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Zeng%20%E7%AD%89%20-%202025%20-%20CellFM%20a%20large-scale%20foundation%20model%20pre-trained%20on%20transcriptomics%20of%20100%20million%20human%20cells.pdf) | **Nature Communications** | ///  | CellFM: a large-scale foundation model pre-trained on transcriptomics of 100 million human cells  |
+| [ScMPT](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/He%20%E7%AD%89%20-%202025%20-%20Harnessing%20the%20power%20of%20single-cell%20large%20language%20models%20with%20parameter-efficient%20fine-tuning%20using.pdf) | **arXiv** | ///  | Towards Applying Large Language Models to Complement Single-Cell Foundation Models  |
 
 ### 2024
 
