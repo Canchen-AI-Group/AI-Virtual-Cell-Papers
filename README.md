@@ -32,10 +32,10 @@ Now, all unclassfied PDF files are stored in the [`/Unclassified`](./Unclassifie
 
 | Method | Venue | Keywords | Title |
 | :--- | :---: | :--- | :--- |
-| [ScPEFT](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/He%20%E7%AD%89%20-%202025%20-%20Harnessing%20the%20power%20of%20single-cell%20large%20language%20models%20with%20parameter-efficient%20fine-tuning%20using.pdf) | **Nature Machine Intelligence** | ///  | Harnessing the power of single-cell large language models with parameter-efficient fine-tuning using  |
+| [scPEFT](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/He%20%E7%AD%89%20-%202025%20-%20Harnessing%20the%20power%20of%20single-cell%20large%20language%20models%20with%20parameter-efficient%20fine-tuning%20using.pdf) | **Nature Machine Intelligence** | ///  | Harnessing the power of single-cell large language models with parameter-efficient fine-tuning using  |
 | [CellFM](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Zeng%20%E7%AD%89%20-%202025%20-%20CellFM%20a%20large-scale%20foundation%20model%20pre-trained%20on%20transcriptomics%20of%20100%20million%20human%20cells.pdf) | **Nature Communications** | ///  | CellFM: a large-scale foundation model pre-trained on transcriptomics of 100 million human cells  |
 | [Nicheformer](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Tejada-Lapuerta%20%E7%AD%89%20-%202025%20-%20Nicheformer%20a%20foundation%20model%20for%20single-cell%20and%20spatial%20omics.pdf) | **Nature Methods** | ///  | Nicheformer: a foundation model for single-cell and spatial omics  |
-| [ScMPT](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/He%20%E7%AD%89%20-%202025%20-%20Harnessing%20the%20power%20of%20single-cell%20large%20language%20models%20with%20parameter-efficient%20fine-tuning%20using.pdf) | **arXiv** | ///  | Towards Applying Large Language Models to Complement Single-Cell Foundation Models  |
+| [scMPT](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/He%20%E7%AD%89%20-%202025%20-%20Harnessing%20the%20power%20of%20single-cell%20large%20language%20models%20with%20parameter-efficient%20fine-tuning%20using.pdf) | **arXiv** | ///  | Towards Applying Large Language Models to Complement Single-Cell Foundation Models  |
 
 ### 2024
 
