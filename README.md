@@ -52,6 +52,8 @@ Now, all unclassfied PDF files are stored in the [`/Unclassified`](./Unclassifie
 
 | Method | Venue | Keywords | Title |
 | :--- | :---: | :--- | :--- |
+| [Geneformer](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Theodoris%20%E7%AD%89%20-%202023%20-%20Transfer%20learning%20enables%20predictions%20in%20network%20biology.pdf) | **Nature** | ///  |  Transfer learning enables predictions in network biology  |
+| [UCE](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Rosen%20%E7%AD%89%20-%202023%20-%20Universal%20Cell%20Embeddings%20A%20Foundation%20Model%20for%20Cell%20Biology.pdf) | **BioRxiv** | ///  |  Universal Cell Embeddings: A Foundation Model for Cell Biology  |
 | [CellPLM](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Wen%20%E7%AD%89%20-%202023%20-%20CellPLM%20Pre-training%20of%20Cell%20Language%20Model%20Beyond%20Single%20Cells.pdf) | **ICLR 2024** | ///  |  CellPLM Pre-training of Cell Language Model Beyond Single Cells  |
 
 
