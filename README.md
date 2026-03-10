@@ -35,7 +35,14 @@ Now, all unclassfied PDF files are stored in the [`/Unclassified`](./Unclassifie
 | [scPEFT](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/He%20%E7%AD%89%20-%202025%20-%20Harnessing%20the%20power%20of%20single-cell%20large%20language%20models%20with%20parameter-efficient%20fine-tuning%20using.pdf) | **Nature Machine Intelligence** | ///  | Harnessing the power of single-cell large language models with parameter-efficient fine-tuning using  |
 | [CellFM](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Zeng%20%E7%AD%89%20-%202025%20-%20CellFM%20a%20large-scale%20foundation%20model%20pre-trained%20on%20transcriptomics%20of%20100%20million%20human%20cells.pdf) | **Nature Communications** | ///  | CellFM: a large-scale foundation model pre-trained on transcriptomics of 100 million human cells  |
 | [Nicheformer](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Tejada-Lapuerta%20%E7%AD%89%20-%202025%20-%20Nicheformer%20a%20foundation%20model%20for%20single-cell%20and%20spatial%20omics.pdf) | **Nature Methods** | ///  | Nicheformer: a foundation model for single-cell and spatial omics  |
+| [STPath](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Huang%20%E7%AD%89%20-%202025%20-%20STPath%20a%20generative%20foundation%20model%20for%20integrating%20spatial%20transcriptomics%20and%20whole-slide%20images.pdf) | **npj Digital Medicine** | ///  | STPath: a generative foundation model for integrating spatial transcriptomics and whole-slide images  |
+| [SToFM](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Zhao%20%E7%AD%89%20-%202025%20-%20SToFM%20a%20Multi-scale%20Foundation%20Model%20for%20Spatial%20Transcriptomics.pdf) | **ICML 2025** | ///  | SToFM: a Multi-scale Foundation Model for Spatial Transcriptomics  |
+| [SpaFoundation](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Zhang%20%E7%AD%89%20-%20SpaFoundation%20a%20visual%20foundation%20model%20for%20spatial%20transcriptomics.pdf) | **ICML 2025** | ///  | SpaFoundation: a visual foundation model for spatial transcriptomics  |
 | [scMPT](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/He%20%E7%AD%89%20-%202025%20-%20Harnessing%20the%20power%20of%20single-cell%20large%20language%20models%20with%20parameter-efficient%20fine-tuning%20using.pdf) | **arXiv** | ///  | Towards Applying Large Language Models to Complement Single-Cell Foundation Models  |
+
+
+
+
 
 ### 2024
 
@@ -46,6 +53,9 @@ Now, all unclassfied PDF files are stored in the [`/Unclassified`](./Unclassifie
 | [scFoundation](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Hao%20%E7%AD%89%20-%202024%20-%20Large-scale%20foundation%20model%20on%20single-cell%20transcriptomics.pdf) | **Nature Methods** | ///  |  Large-scale foundation model on single-cell transcriptomics  |
 | [AIDO](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/He%20%E7%AD%89%20-%202025%20-%20Harnessing%20the%20power%20of%20single-cell%20large%20language%20models%20with%20parameter-efficient%20fine-tuning%20using.pdf) | **NeurIPS 2024** | ///  | Scaling Dense Representations for Single Cell with Transcriptome-Scale Context  |
 | [CellPLM](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Wen%20%E7%AD%89%20-%202023%20-%20CellPLM%20Pre-training%20of%20Cell%20Language%20Model%20Beyond%20Single%20Cells.pdf) | **ICLR 2024** | ///  |  CellPLM Pre-training of Cell Language Model Beyond Single Cells  |
+| [HEST-1k](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Jaume%20%E7%AD%89%20-%202024%20-%20HEST-1k%20A%20Dataset%20for%20Spatial%20Transcriptomics%20and%20Histology%20Image%20Analysis.pdf) | **NeurIPS 2024** | ///  |  HEST-1k: A Dataset for Spatial Transcriptomics and Histology Image Analysis  |
+| [STimage-1K4M](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Chen%20%E7%AD%89%20-%202024%20-%20STimage-1K4M%20A%20histopathology%20image-gene%20expression%20dataset%20for%20spatial%20transcriptomics.pdf) | **arXiv** | ///  |  STimage-1K4M: A histopathology image-gene expression dataset for spatial transcriptomics  |
+
 
 
 
