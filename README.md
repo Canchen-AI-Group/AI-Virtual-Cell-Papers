@@ -40,8 +40,7 @@ Now, all unclassfied PDF files are stored in the [`/Unclassified`](./Unclassifie
 | [SToFM](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Zhao%20%E7%AD%89%20-%202025%20-%20SToFM%20a%20Multi-scale%20Foundation%20Model%20for%20Spatial%20Transcriptomics.pdf) | **ICML 2025** | ///  | SToFM: a Multi-scale Foundation Model for Spatial Transcriptomics  |
 | [SpaFoundation](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Zhang%20%E7%AD%89%20-%20SpaFoundation%20a%20visual%20foundation%20model%20for%20spatial%20transcriptomics.pdf) | **ICML 2025** | ///  | SpaFoundation: a visual foundation model for spatial transcriptomics  |
 | [scMPT](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/He%20%E7%AD%89%20-%202025%20-%20Harnessing%20the%20power%20of%20single-cell%20large%20language%20models%20with%20parameter-efficient%20fine-tuning%20using.pdf) | **arXiv** | ///  | Towards Applying Large Language Models to Complement Single-Cell Foundation Models  |
-
-
+| [CellForge](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Tang%20%E7%AD%89%20-%202025%20-%20CellForge%20Agentic%20Design%20of%20Virtual%20Cell%20Models.pdf) | **arXiv** | ///  | CellForge: Agentic Design of Virtual Cell Models  |
 
 
 
