@@ -24,6 +24,7 @@ Now, all unclassfied PDF files are stored in the [`/Unclassified`](./Unclassifie
 | Method | Venue | Keywords | Title |
 | :--- | :---: | :--- | :--- |
 | [STACK](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Dong%20%E7%AD%89%20-%202026%20-%20Stack%20In-Context%20Learning%20of%20Single-Cell%20Biology.pdf) | **BioRxiv** | ///  | Stack: In-Context Learning of Single-Cell Biology  |
+| [BiOmics](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Cao%20%E7%AD%89%20-%20BiOmics%20A%20Foundational%20Agent%20for%20Grounded%20and%20Autonomous%20Multi-omics%20Interpretation.pdf) | **BioRxiv** | ///  | BiOmics: A Foundational Agent for Grounded and Autonomous Multi-omics Interpretation  |
 | [HEIST](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Dong%20%E7%AD%89%20-%202026%20-%20Stack%20In-Context%20Learning%20of%20Single-Cell%20Biology.pdf) | **ICLR 2026** | ///  | HEIST: A Graph Foundation Model for Spatial Transcripitomics and Proteomics Data  |
 | [PantheonOS](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Xu%20%E7%AD%89%20-%20PantheonOS%20An%20Evolvable%20Multi-Agent%20Framework%20for%20Automatic%20Genomics%20Discovery.pdf) | **BioRxiv** | ///  | PantheonOS: An Evolvable Multi-Agent Framework for Automatic Genomics Discovery  |
 
@@ -41,6 +42,8 @@ Now, all unclassfied PDF files are stored in the [`/Unclassified`](./Unclassifie
 | [SpaFoundation](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Zhang%20%E7%AD%89%20-%20SpaFoundation%20a%20visual%20foundation%20model%20for%20spatial%20transcriptomics.pdf) | **ICML 2025** | ///  | SpaFoundation: a visual foundation model for spatial transcriptomics  |
 | [scMPT](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/He%20%E7%AD%89%20-%202025%20-%20Harnessing%20the%20power%20of%20single-cell%20large%20language%20models%20with%20parameter-efficient%20fine-tuning%20using.pdf) | **arXiv** | ///  | Towards Applying Large Language Models to Complement Single-Cell Foundation Models  |
 | [CellForge](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Tang%20%E7%AD%89%20-%202025%20-%20CellForge%20Agentic%20Design%20of%20Virtual%20Cell%20Models.pdf) | **arXiv** | ///  | CellForge: Agentic Design of Virtual Cell Models  |
+| [Biomni](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Huang%20%E7%AD%89%20-%20Biomni%20A%20General-Purpose%20Biomedical%20AI%20Agent.pdf) | **BioRxiv** | ///  | Biomni: A General-Purpose Biomedical AI Agent  |
+
 
 
 
