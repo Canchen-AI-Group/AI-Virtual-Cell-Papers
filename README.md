@@ -98,8 +98,8 @@ A log of benchmark datasets frequently used by the team to avoid redundant searc
 
 
 - **[PillarCorpus Single-cell](https://huggingface.co/datasets/Aristotleo/PillarCorpus-single-cell)**
-
-
+- **[SEA-AD](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/Hawrylycz%20%E7%AD%89%20-%202024%20-%20SEA-AD%20is%20a%20multimodal%20cellular%20atlas%20and%20resource%20for%20Alzheimer%E2%80%99s%20disease.pdf)**
+- **[CELLxGENE](https://github.com/Canchen-AI-Group/AI-Virtual-Cell-Papers/blob/main/Unclassified/CZI%20Cell%20Science%20Program%20%E7%AD%89%20-%202025%20-%20CZ%20CELLxGENE%20Discover%20a%20single-cell%20data%20platform%20for%20scalable%20exploration%2C%20analysis%20and%20modeling%20o.pdf)**
 
 ## 📝 Blogs & Tutorials
 
